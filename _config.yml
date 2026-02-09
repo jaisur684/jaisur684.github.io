@@ -1,0 +1,23 @@
+title: Jaidev Suresh
+name: Jaidev Suresh
+description: Personal encyclopedia and profile of Jaidev Suresh
+url: https://jaisur684.github.io
+baseurl: ""
+
+remote_theme: mmistakes/minimal-mistakes
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+markdown: kramdown
+
+author:
+  name: Jaidev Suresh
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
