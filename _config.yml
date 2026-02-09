@@ -1,0 +1,20 @@
+title: Jaidev Suresh
+description: Personal encyclopedia of Jaidev Suresh
+url: https://jaisur684.github.io
+baseurl: ""
+
+theme: just-the-docs
+
+color_scheme: light
+search_enabled: true
+heading_anchors: true
+
+nav_enabled: true
+
+aux_links:
+  "GitHub":
+    - "//github.com/jaisur684"
+
+footer_content: "This site is a personal encyclopedia."
+
+markdown: kramdown
